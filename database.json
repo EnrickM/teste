@@ -1,0 +1,23 @@
+{
+    "Plano Básico":[
+        {
+            "Preço": 19.90,
+            "Adicionais": "Whey Protein",
+            "Unidades": "1"
+        }
+    ],
+    "Plano Plus":[
+        {
+            "Preço": 29.90,
+            "Adicionais": "Whey Protein e BCAA",
+            "Unidades": "2"
+        }
+    ],
+    "Plano Premium":[
+        {
+            "Preço": 39.90,
+            "Adicionais": "Whey Protein, BCAA e Creatina",
+            "Unidades": "todas"
+        }
+    ]
+}
