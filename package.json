@@ -1,16 +1,6 @@
 {
-  "name": "teste-10000",
-  "version": "1.0.0",
-  "description": "teste server",
-  "main": "server.mjs",
-  "scripts": {
-    "test": "node server.mjs"
-  },
-  "keywords": [
-    "Plano Básico",
-    "Plano Plus",
-    "Plano Premium"
-  ],
-  "author": "Enrick",
-  "license": "ISC"
-}
+    "dependencies": {
+        "install": "^0.13.0",
+      "json-server": "^0.17.1"
+    }
+  }
